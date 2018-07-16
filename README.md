@@ -23,4 +23,4 @@ dotnet test
 
 ## Issues
 
-Incase of any problem create an issue on <URL TO REPO>
+Incase of any problem create an issue on https://github.com/nishant-jain-94/holoalphabetic-sentence-csharp-problem/issues
