@@ -12,6 +12,14 @@ Put down your code in `HoloalphabeticSentence/HoloalphabeticSentence.cs`
 
 ```
 cd HoloalphabeticSentence.Tests
+
+# Add remote to the starter code
+git remote add starter https://github.com/sro-boeing-wave-2/holoalphabetic-sentence-csharp-problem
+
+# To install and restore your packages
+dotnet restore
+
+# To test your code
 dotnet test
 ```
 
